@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Pinterest homepagina  
-  <img src="eerstepagina.png" width="375px" alt="omschrijving van de pagina">
+  <img src="eerstepagina.png" width="375px" alt="Dit is de home pagina van pinterest hier vind je allerlei plaatjes die je interessant vind.">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Pinterest detailpagina
-  <img src="tweedepagina.png" width="375px" alt="omschrijving van de pagina">
+  <img src="tweedepagina.png" width="375px" alt="Dit is de deitail pagina. Op de detial pagina vind je extra opties. Zoals het bewaren van het plaatje of comments die zijn achter gelaten door andere. Als je naar beneden scrollt vind je soort gelijke content.">
  
 </details>
 
